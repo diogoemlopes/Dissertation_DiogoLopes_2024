@@ -1,0 +1,11 @@
+{
+    "agent_seed": null,
+    "backend_type": "LightSimBackend_data_test",
+    "chronics_max_timestep": "671",
+    "chronics_path": "/home/diogogoid/Tese/0.Implementation_V2/data_test/chronics/0000",
+    "cumulative_reward": 11948.4931640625,
+    "env_seed": null,
+    "env_type": "Environment_data_test",
+    "grid_path": "/home/diogogoid/Tese/0.Implementation_V2/data_test/grid.json",
+    "nb_timestep_played": 671
+}
